@@ -65,13 +65,25 @@ const Marvo = {
 
 ### 🎮 Experiencia FiveM
 
-**Servidores en los cuales trabaje**
+**Servidores en los cuales trabajé**
 
-| Servidor | Capacidad |
-|----------|-----------|
-| 🔥 Tropitango RP | 110-390 players | Developing and CO-OWNER |
-| 💎 Marginados rp | 80-160 players | Developing |
+| Servidor | Capacidad | Rol |
+|----------|-----------|------|
+| 🔥 Tropitango RP | 110-390 players | Developing & CO-OWNER |
+| 💎 Marginados RP | 80-160 players | Developing |
 | 🌶️ Bardero$ RP | 50-120 players | Developing |
+
+</td>
+
+<td width="50%">
+
+### 📚 Cursos Realizados
+
+| Curso | Plataforma | Año |
+|--------|------------|------|
+| 💻 Desarrollador Web | <a href="https://www.coderhouse.com/" target="_blank">Coderhouse</a> | 2025 |
+| 🛡️ Ciberseguridad | <a href="https://www.coderhouse.com/" target="_blank">Coderhouse</a> | 2023 |
+| ⚙️ Desarrollo Backend | <a href="https://www.coderhouse.com/" target="_blank">Coderhouse</a> | 2025 |
 
 </td>
 </tr>
