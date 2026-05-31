@@ -98,8 +98,8 @@ const Marvo = {
 ```ascii
 ┌─────────────────────────────────────────────┐
 │                                             │
-│ "la única forma que conocen los humanos de  │
-│ llegar a alguna parte es dejando algo atrás"│
+│  "the only way humans know about Getting    │
+│   somewhere is leaving something behind"    │
 │                                             │
 │              — Isaac Newton                 │
 │                                             │
