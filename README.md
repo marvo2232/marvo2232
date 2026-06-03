@@ -21,9 +21,8 @@ const Marvo = {
     especialidad: "Transformar complejidad en sistemas simples y eficientes para la facilidad del usuario   ",
 
     hobbies: [
-        "🏀 Básquet",
+        "🏎️ F1",
         "🎵 Música",
-        "🏋️ Gym",
         "💻 Programming"
     ]
 };
